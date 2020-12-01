@@ -1,6 +1,6 @@
 /**
  * @name Snippets
- * @version 0.0.0
+ * @version 0.1.0
  * @description Add a Snippets panel to the message bar.
  * @author cAtte_
  * @authorLink https://github.com/cAttte
@@ -13,7 +13,7 @@ const [Plugin, BDFDB] = window.BDFDB_Global.PluginUtils.buildPlugin({
     info: {
         name: "Snippets",
         author: "cAtte_",
-        version: "0.0.0",
+        version: "0.1.0",
         description: "Add a Snippets panel to the message bar."
     }
 })
