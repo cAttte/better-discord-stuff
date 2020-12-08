@@ -1,4 +1,4 @@
-# bd-disable-shortcut
+# DisableShortcut
 
 A [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/) plugin to quickly disable/enable themes.
 
