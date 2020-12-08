@@ -13,3 +13,5 @@ Save the plugin file to your plugin folder (`%USERPROFILE%/AppData/Roaming/Bette
 ## Usage
 
 Press <kbd>Alt</kbd> + <kbd>T</kbd> to enable or disable all of your themes. The themes you had manually enabled before disabling them will be saved and restored when re-enabling.
+
+_Make sure you pressed the shortcut while your desired theme(s) were **enabled**. If you did while they were disabled, just enable them and restart Discord (with <kbd>Ctrl</kbd> + <kbd>R</kbd>)._
