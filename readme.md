@@ -1,6 +1,6 @@
 # bd-disable-shortcut
 
-A [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/) plugin to quickly disable themes and/or plugins.
+A [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/) plugin to quickly disable themes.
 
 ## Download
 
