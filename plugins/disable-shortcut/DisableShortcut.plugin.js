@@ -5,8 +5,9 @@
  * @author cAtte_
  * @authorLink https://github.com/cAttte
  * @updateUrl https://raw.githubusercontent.com/cAttte/bd-disable-shortcut/master/DisableShortcut.plugin.js
- * @website https://github.com/cAttte/bd-disable-shortcut
- * @source https://github.com/cAttte/bd-disable-shortcut
+ * @website https://github.com/cAttte/better-discord-stuff/blob/master/plugins/disable-shortcut#readme
+ * @source https://github.com/cAttte/better-discord-stuff/blob/master/plugins/disable-shortcut/DisableShortcut.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/cAttte/better-discord-stuff/master/plugins/disable-shortcut/DisableShortcut.plugin.js
  */
 
 module.exports = class DisableShortcutPlugin {

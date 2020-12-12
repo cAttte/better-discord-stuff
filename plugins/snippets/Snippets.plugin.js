@@ -4,9 +4,9 @@
  * @description Add a Snippets panel to the message bar.
  * @author cAtte_
  * @authorLink https://github.com/cAttte
- * @website https://github.com/cAttte/bd-snippets
- * @source https://github.com/cAttte/bd-snippets/blob/master/snippets.plugin.js
- * @updateUrl https://raw.githubusercontent.com/cAttte/bd-snippets/master/snippets.plugin.js
+ * @website https://github.com/cAttte/better-discord-stuff/blob/master/plugins/snippets#readme
+ * @source https://github.com/cAttte/better-discord-stuff/blob/master/plugins/snippets/Snippets.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/cAttte/better-discord-stuff/master/plugins/snippets/Snippets.plugin.js
  */
 
 const [Plugin, BDFDB] = window.BDFDB_Global.PluginUtils.buildPlugin({
