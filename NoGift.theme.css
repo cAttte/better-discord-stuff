@@ -1,0 +1,42 @@
+/**
+ * @name NoGift
+ * @version 1.0.1
+ * @description Hides the gift button.
+ * @author cAtte_
+ * @authorLink https://github.com/cAttte
+ * @updateUrl https://raw.githubusercontent.com/cAttte/bd-no-gift/master/NoGift.theme.css
+ * @website https://github.com/cAttte/bd-no-gift
+ * @source https://github.com/cAttte/bd-no-gift
+ */
+
+button[aria-label="Send en gave"],
+button[aria-label="Ein Geschenk senden"],
+button[aria-label="Send a gift"],
+button[aria-label="Send a gift"],
+button[aria-label="Enviar un regalo"],
+button[aria-label="Envoyer un cadeau"],
+button[aria-label="Pošalji poklon"],
+button[aria-label="Invia un regalo"],
+button[aria-label="Siųsti dovaną"],
+button[aria-label="Ajándék küldése"],
+button[aria-label="Verstuur een cadeau"],
+button[aria-label="Send en gave"],
+button[aria-label="Wyślij prezent"],
+button[aria-label="Enviar um presente"],
+button[aria-label="Trimite un cadou"],
+button[aria-label="Lähetä lahja"],
+button[aria-label="Skicka en gåva"],
+button[aria-label="Tặng một món quà"],
+button[aria-label="Bir hediye gönder"],
+button[aria-label="Odeslat dárek"],
+button[aria-label="Στείλτε ένα δώρο"],
+button[aria-label="Изпрати подарък"],
+button[aria-label="Отправить подарок"],
+button[aria-label="Надіслати подарунок"],
+button[aria-label="ส่งของขวัญ"],
+button[aria-label="发送礼物"],
+button[aria-label="ギフトを贈る"],
+button[aria-label="發送禮物"],
+button[aria-label="선물 보내기"] {
+    display: none;
+}
